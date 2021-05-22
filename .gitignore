@@ -14,10 +14,22 @@
 *.jar
 *.war
 *.nar
-*.ear
+*.earla
 *.zip
 *.tar.gz
 *.rar
 
+*.doc
+*.pdf
+*.pptx
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+lab1/lab1doc
+lab1/data
+
+lab2/lab2doc/
+lab2/data/
+lab2/src/main/java/Test/
+target/
